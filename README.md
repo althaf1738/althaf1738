@@ -1,53 +1,60 @@
 ## Hi there 👋
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Althaf%20Shaik&fontSize=50&animation=twinkling&desc=AI%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Full%20Stack%20Builder&descAlignY=78" />
 </p>
 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Building+production-grade+AI+systems+and+backend+platforms;RAG+%7C+Agents+%7C+Evaluation+%7C+Observability;FastAPI+%7C+.NET+%7C+React+%7C+PostgreSQL+%7C+Docker+%7C+AWS" />
-</p> 
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+Production-Grade+AI+Systems;RAG+%7C+Agents+%7C+Evaluation+%7C+Observability;FastAPI+%7C+.NET+%7C+React+%7C+AWS+%7C+Docker;Shipping+Code+That+Matters)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="RESUME_URL">
-    <img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-  <a href="mailto:EMAIL">
-    <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
+[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](RESUME_URL)
+[![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
+
+</div>
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=althaf1738&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-## About
+## 💫 About Me
 I build production grade AI systems and backend platforms, focused on reliability, latency, and real user workflows.
 My work sits at the intersection of LLM applications, retrieval systems, and distributed services.
 
-What I optimize for
-1) Correctness first: retrieval, grounding, structured outputs, eval loops  
-2) Real systems: queues, workers, retries, idempotency, observability  
-3) Product UX: outputs that are actionable for humans, not just model text  
+### ⚡ What I Optimize For
 
+```diff
++ Correctness first: retrieval, grounding, structured outputs, eval loops  
++ Real systems: queues, workers, retries, idempotency, observability  
++ Product UX: outputs that are actionable for humans, not just model text  
+```
 
-## Tech stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,java,spring,ts,js,react,nextjs,nodejs,postgres,mysql,redis,docker,kubernetes,aws,azure,nginx,git,githubactions,linux&perline=11" />
-  </a>
-</p>
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Apps-RAG%20%7C%20Agents%20%7C%20Tooling%20%7C%20Eval-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-Queues%20%7C%20Workers%20%7C%20Streaming-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Observability-Metrics%20%7C%20Tracing%20%7C%20Dashboards-111111?style=for-the-badge" />
-</p>
+<div align="center">
+
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,java,spring,typescript,javascript,react,nextjs,nodejs&theme=dark&perline=11)](https://skillicons.dev)
+
+### Infrastructure & Tools
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,docker,kubernetes,aws,azure,nginx,git,githubactions,linux&theme=dark&perline=11)](https://skillicons.dev)
+
+### Specialized Domains
+
+![LLM Apps](https://img.shields.io/badge/LLM%20Apps-RAG%20%7C%20Agents%20%7C%20Tooling%20%7C%20Eval-667eea?style=for-the-badge&logo=openai&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Queues%20%7C%20Workers%20%7C%20Streaming-764ba2?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-Metrics%20%7C%20Tracing%20%7C%20Dashboards-4fc3f7?style=for-the-badge&logo=prometheus&logoColor=white)
+
+</div>
+
 
 ## Featured systems
 
@@ -103,6 +110,17 @@ Key engineering focus
 
 Stack: React, Tailwind, backend API, database
 
+
+
+<div align="center">
+
+### 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+
+</div>
+
+
 ## GitHub stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=althaf1738&show_icons=true&hide_title=true&rank_icon=github" height="165" />
@@ -118,6 +136,15 @@ Stack: React, Tailwind, backend API, database
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Althaf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=althaf1738&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667eea&line=764ba2&point=4fc3f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" />

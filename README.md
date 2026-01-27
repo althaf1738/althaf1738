@@ -14,9 +14,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/althaf-shaik1738/)
 [![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](RESUME_URL)
-[![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
+[![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:althafshaik1738@gmail.com)
 
 </div>
 
@@ -58,63 +58,87 @@ My work sits at the intersection of LLM applications, retrieval systems, and dis
 
 ## Featured systems
 
-### CodeLens AI Code Reviewer
-<img src="assets/codelens-cover.png" alt="CodeLens AI cover" width="100%" />
+<table>
+<tr>
+<td width="50%">
 
-Repo: https://github.com/althaf1738/CodeLens-AI-Code-Reviewer
+### 🔍 CodeLens AI Code Reviewer
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/codelens-ai)
+![Stars](https://img.shields.io/github/stars/althaf1738/codelens-ai?style=for-the-badge&logo=github)
 
-Built to improve code review quality using retrieval and structured context.
-Key engineering focus
-1 Repository aware retrieval with chunking designed for source code
-2 Context assembly that reduces hallucinations and improves relevance
-3 Product style UX that makes review output actionable
+**Improving code review quality using retrieval and structured context**
 
-Stack: FastAPI, Next.js, Qdrant, Tree sitter, embeddings, RAG
+#### 🎯 Key Engineering
+- Repository-aware retrieval with source code optimized chunking
+- Context assembly that reduces hallucinations
+- Product-style UX for actionable outputs
 
-### Cloud Video Pipeline
-<img src="assets/video-pipeline-cover.png" alt="Cloud Video Pipeline cover" width="100%" />
+#### 🛠️ Tech Stack
+`FastAPI` `Next.js` `Qdrant` `Tree-sitter` `RAG`
 
-Repo: https://github.com/althaf1738/cloud_video_pipeline
+</td>
+<td width="50%">
 
-A distributed media pipeline designed like a real production service.
-Key engineering focus
-1 Queue based workflow for ingest and processing
-2 Worker design, retries, and failure handling
-3 Metrics and dashboards for operations visibility
+### ☁️ Cloud Video Pipeline
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/Cloud-Video-Pipeline)
+![Stars](https://img.shields.io/github/stars/althaf1738/Cloud-Video-Pipeline?style=for-the-badge&logo=github)
 
-Stack: Dotnet 8, FFmpeg, S3, SQS, DynamoDB, LocalStack, Prometheus, Grafana
+**Distributed media pipeline designed like a production service**
 
-### VetRec Demo
-<img src="assets/vetrec-cover.png" alt="VetRec cover" width="100%" />
+#### 🎯 Key Engineering
+- Queue-based workflow for ingest and processing
+- Worker design with retries and failure handling
+- Metrics and dashboards for operations visibility
 
-Repo: https://github.com/althaf1738/VetRec-Demo
+#### 🛠️ Tech Stack
+`.NET 8` `FFmpeg` `S3` `SQS` `DynamoDB` `Prometheus`
 
-An applied LLM workflow that turns transcripts into structured clinical documentation.
-Key engineering focus
-1 Structured outputs for reliability and human review
-2 Traceability friendly formatting
-3 Workflow designed for real users, not just model output
+</td>
+</tr>
 
-Stack: FastAPI, React, storage layer
+<tr>
+<td width="50%">
 
-### TeamFlow
-<img src="assets/teamflow-cover.png" alt="TeamFlow cover" width="100%" />
+### 🏥 VetRec Demo
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/VetRec-Demo)
+![Stars](https://img.shields.io/github/stars/althaf1738/VetRec-Demo?style=for-the-badge&logo=github)
 
-Repo: https://github.com/althaf1738/TaskFlow-Task-Management-Web-App
+**LLM workflow turning transcripts into structured clinical docs**
 
-A modern full stack system showing product thinking and frontend polish.
-Key engineering focus
-1 Kanban workflows with assignments, due dates, subtasks, and filters
-2 API first design with clear data model
-3 UI that feels like real tools teams use
+#### 🎯 Key Engineering
+- Structured outputs for reliability and human review
+- Traceability-friendly formatting
+- Real user workflow design
 
-Stack: React, Tailwind, backend API, database
+#### 🛠️ Tech Stack
+`FastAPI` `React` `Storage Layer` `LLM APIs`
+
+</td>
+<td width="50%">
+
+### 📊 TeamFlow
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/teamflow)
+![Stars](https://img.shields.io/github/stars/althaf1738/teamflow?style=for-the-badge&logo=github)
+
+**Modern full-stack system with product thinking and polish**
+
+#### 🎯 Key Engineering
+- Kanban workflows with assignments and filters
+- API-first design with clear data model
+- UI that feels like real team tools
+
+#### 🛠️ Tech Stack
+`React` `Tailwind CSS` `Backend API` `Database`
+
+</td>
+</tr>
+</table>
 
 
 
 <div align="center">
 
-### 💭 Dev Quote
+## 💭 Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
 

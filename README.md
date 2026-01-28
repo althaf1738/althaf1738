@@ -64,7 +64,7 @@ My work sits at the intersection of LLM applications, retrieval systems, and dis
 
 ### 🔍 CodeLens AI Code Reviewer
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/codelens-ai)
-![Stars](https://img.shields.io/github/stars/althaf1738/codelens-ai?style=for-the-badge&logo=github)
+<!-- ![Stars](https://img.shields.io/github/stars/althaf1738/codelens-ai?style=for-the-badge&logo=github) -->
 
 **Improving code review quality using retrieval and structured context**
 
@@ -81,7 +81,7 @@ My work sits at the intersection of LLM applications, retrieval systems, and dis
 
 ### ☁️ Cloud Video Pipeline
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/Cloud-Video-Pipeline)
-![Stars](https://img.shields.io/github/stars/althaf1738/Cloud-Video-Pipeline?style=for-the-badge&logo=github)
+<!-- ![Stars](https://img.shields.io/github/stars/althaf1738/Cloud-Video-Pipeline?style=for-the-badge&logo=github) -->
 
 **Distributed media pipeline designed like a production service**
 
@@ -101,7 +101,7 @@ My work sits at the intersection of LLM applications, retrieval systems, and dis
 
 ### 🏥 VetRec Demo
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/VetRec-Demo)
-![Stars](https://img.shields.io/github/stars/althaf1738/VetRec-Demo?style=for-the-badge&logo=github)
+<!-- ![Stars](https://img.shields.io/github/stars/althaf1738/VetRec-Demo?style=for-the-badge&logo=github) -->
 
 **LLM workflow turning transcripts into structured clinical docs**
 
@@ -118,7 +118,7 @@ My work sits at the intersection of LLM applications, retrieval systems, and dis
 
 ### 📊 TeamFlow
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/teamflow)
-![Stars](https://img.shields.io/github/stars/althaf1738/teamflow?style=for-the-badge&logo=github)
+<!-- ![Stars](https://img.shields.io/github/stars/althaf1738/teamflow?style=for-the-badge&logo=github) -->
 
 **Modern full-stack system with product thinking and polish**
 

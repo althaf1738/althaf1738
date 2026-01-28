@@ -12,10 +12,10 @@
 
 </div>
 
+  ### 🌐 Connect With Me
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/althaf-shaik1738/)
-[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](RESUME_URL)
 [![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:althafshaik1738@gmail.com)
 
 </div>

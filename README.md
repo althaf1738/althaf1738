@@ -99,7 +99,7 @@ My work sits at the intersection of LLM applications, retrieval systems, and dis
 <tr>
 <td width="50%">
 
-### 🏥 VetRec Demo
+### 🏥 VetRec
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/VetRec-Demo)
 <!-- ![Stars](https://img.shields.io/github/stars/althaf1738/VetRec-Demo?style=for-the-badge&logo=github) -->
 

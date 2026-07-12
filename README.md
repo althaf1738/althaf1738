@@ -79,6 +79,26 @@ My work sits at the intersection of LLM applications, retrieval systems, and dis
 </td>
 <td width="50%">
 
+### 🏥 VetRec-AI
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/VetRec-Demo)
+<!-- ![Stars](https://img.shields.io/github/stars/althaf1738/VetRec-Demo?style=for-the-badge&logo=github) -->
+
+**LLM workflow turning transcripts into structured clinical docs**
+
+#### 🎯 Key Engineering
+- Structured outputs for reliability and human review
+- Traceability-friendly formatting
+- Real user workflow design
+
+#### 🛠️ Tech Stack
+`FastAPI` `React` `Storage Layer` `LLM APIs`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### ☁️ Cloud Video Pipeline
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/Cloud-Video-Pipeline)
 <!-- ![Stars](https://img.shields.io/github/stars/althaf1738/Cloud-Video-Pipeline?style=for-the-badge&logo=github) -->
@@ -92,26 +112,6 @@ My work sits at the intersection of LLM applications, retrieval systems, and dis
 
 #### 🛠️ Tech Stack
 `.NET 8` `FFmpeg` `S3` `SQS` `DynamoDB` `Prometheus`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏥 VetRec
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/althaf1738/VetRec-Demo)
-<!-- ![Stars](https://img.shields.io/github/stars/althaf1738/VetRec-Demo?style=for-the-badge&logo=github) -->
-
-**LLM workflow turning transcripts into structured clinical docs**
-
-#### 🎯 Key Engineering
-- Structured outputs for reliability and human review
-- Traceability-friendly formatting
-- Real user workflow design
-
-#### 🛠️ Tech Stack
-`FastAPI` `React` `Storage Layer` `LLM APIs`
 
 </td>
 <td width="50%">

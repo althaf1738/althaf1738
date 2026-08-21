@@ -21,9 +21,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=althaf1738&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
 
 ## 💫 About Me
 I build production grade AI systems and backend platforms, focused on reliability, latency, and real user workflows.
